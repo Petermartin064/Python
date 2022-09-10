@@ -1,0 +1,10 @@
+print("My name is Peter", "Martin.", end="")
+print("Peter Martin Kirika")
+print(0o123)
+print(0x123)
+print("I like \"Monty Python\"")
+print('I like "Monty Python"')
+print(2 * 3 % 5)
+print((5 * ((25 % 13) + 100) / (2 * 13)) // 2)
+var = 1
+print(var)
